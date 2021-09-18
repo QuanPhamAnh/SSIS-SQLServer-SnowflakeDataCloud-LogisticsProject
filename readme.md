@@ -1,4 +1,3 @@
-# FA_project2
 ## Project Topic
 ### Logistics
 Minimizing transportation costs and warehouse allocation.
@@ -50,8 +49,3 @@ Building the data pipeline
 7. Open **PowerBI**, click Get Data, search for Snowflake.
 8. Connect to Snowflake server using your snowflake account.
 9. Create PowerBI dashboard. ![BIplot](./Doc/Logistics-Dashboard-QuanPA2.PNG)
-
-## Snowflake trainer account
-[Snowflake link](https://fk36375.ap-southeast-1.snowflakecomputing.com/)
-1. User: `longbv1`               Password: `abc123`
-2. User: `mainq2`                Password: `abc123`
